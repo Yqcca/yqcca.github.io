@@ -22,7 +22,8 @@ HONORS & AWARDS
 ======
 * 2023 Imperial College UROP Award
 * 2022 Dean's List (Year 2) at Imperial College London
-* 2019 American Mathematics Competition 12: Certificate of Distinction • 2019 Euclid Mathematic Contest: Certificate of Distinction
+* 2019 American Mathematics Competition 12: Certificate of Distinction
+* 2019 Euclid Mathematic Contest: Certificate of Distinction
 * 2019 34th Annual AAPT PhyscisBowl Contest: Honorable Award
 
 
