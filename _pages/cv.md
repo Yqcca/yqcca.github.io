@@ -18,29 +18,12 @@ EDUCATION
   * Modules include: Real Analysis and Complex Analysis (95.39%), Linear Algebra and Numerical Analysis (81.79%), Multivariable Calculus and Differential Equations (89.96%), Data Science Methods (85.40%), Network Science, Statistics, Time Series Analysis, Applied Probability, Statistical Theory, Principles of Programming
 
 
-RESEARCH EXPERIENCE
+HONORS & AWARDS
 ======
-* <p style="text-align:left;"><b>Undergraduate Research Opportunities Programme</b><span style="float:right;"><i>2023/07 - current, Imperial College London</i></span></p>
-
-  * Topic: GNN Expressiveness and Graph Generative Models
-  * Used PyTorch, PyTDC, and Torchdrug to reproduce and improve current graph representation modules in graph generative models.
-  * Implemented new state-of-the-art molecular generation objectives to evaluate the new graph generative models.
-  * Source code: [_https://github.com/Yqcca/graph-generative-models_](https://github.com/Yqcca/graph-generative-models)
-
-
-* <p style="text-align:left;"><b>Undergraduate Research Opportunities Programme</b><span style="float:right;"><i>2022/05 - 2022/09, Imperial College London</i></span></p>
-
-  * Topic: Explainable AI for Image Segmentation based on COVID-19
-  * Used PyTorch, Tensorflow, and MONAI to construct deep learning models to segment images related to healthcare and reproduce explainable modules in relevant papers.
-  * Analysed the local and global explainability of different deep learning models, such as U-Net, applied in COVID-19 diagnosis.
-  
-
-* <p style="text-align:left;"><b>Group Research Project</b><span style="float:right;"><i>2022/05 - 2022/06, Imperial College London</i></span></p>
-  
-  * Topic: Bayesian Filtering
-  * Learnt Bayesian Filtering methods and Markov Chain Monte Carlo methods.
-  * Analysed the numerical results based on the performance of Kalman Filter and Particle Filters in hidden Markov chain with linear Gaussian and non-linear Gaussian noise simulations.
-  * Project homepage: [_https://github.com/Yqcca/Filters_](https://github.com/Yqcca/Filters)
+* 2023 Imperial College UROP Award
+* 2022 Dean's List (Year 2) at Imperial College London
+* 2019 American Mathematics Competition 12: Certificate of Distinction • 2019 Euclid Mathematic Contest: Certificate of Distinction
+* 2019 34th Annual AAPT PhyscisBowl Contest: Honorable Award
 
 
 SKILLS

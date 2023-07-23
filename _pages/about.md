@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth-year Mathematics student at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My research interests lie in the fields of deep learning and statistics. I am eager to study and explore advanced algorithms and models to solve data-driven problems in the real world.
+Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My previous research work focuses on AI+healthcare, graph generative models and filtering. My research interests lie in the fields of machine learning, deep learning and statistics. Currently I am actively exploring advanced algorithms and models to solve complex data-driven problems in the real world. My goal is to develop explainable deep learning models to better assist people with day-to-day tasks in the era of big data.
 
 Outside of academics, I play Go, Bridge and Reach Mahjong.
 
