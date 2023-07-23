@@ -4,7 +4,7 @@ title: "Projects"
 excerpt: "Projects"
 author_profile: true
 redirect_from: 
-  - /projects
+  - /projects/
 ---
 
 * 2023/07-2023/09: Undergraduate Research Opportunities Programme
