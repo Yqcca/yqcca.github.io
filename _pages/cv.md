@@ -34,4 +34,4 @@ SKILLS
 * ML Libraries: Tensorflow, Keras, Scikit-learn, PyTorch, PyG, TorchDrug, MONAI
 * Hobbies: Accordion, Go, Bridge
 
-You can find my full CV here: [Curriculum Vitae](../files/github_cv.pdf)
+You can find my full CV here: [Curriculum Vitae](../files/Xiandong_Zou.pdf)
