@@ -1,8 +1,11 @@
 ---
+layout: archive
 title: "Projects"
-excerpt: "Projects"
-collection: projects
+permalink: /projects/
+author_profile: true
 ---
+
+{% include base_path %}
 
 * 2023/07-2023/09: Undergraduate Research Opportunities Programme
   * Imperial College London
