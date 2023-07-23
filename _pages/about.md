@@ -12,7 +12,7 @@ Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.
 
 Outside of academics, I play Go, Bridge and Reach Mahjong.
 
-You can find my CV here: [Curriculum Vitae](../files/Xiandong_Zou.pdf)
+You can find my CV here: [Curriculum Vitae](../files/cv.pdf)
 
 Education
 ======
