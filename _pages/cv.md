@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * <p style="text-align:left;">M.S. in Mathematics<span style="float:right;"><i>2023/10 - 2024/06 (expected), Imperial College London</i></span></p>
 
@@ -18,7 +18,7 @@ Education
   * Modules include: Real Analysis and Complex Analysis (95.39%), Linear Algebra and Numerical Analysis (81.79%), Multivariable Calculus and Differential Equations (89.96%), Data Science Methods (85.40%), Network Science, Statistics, Time Series Analysis, Applied Probability, Statistical Theory, Principles of Programming
 
 
-Research experience
+RESEARCH EXPERIENCE
 ======
 * <p style="text-align:left;"><b>Undergraduate Research Opportunities Programme</b><span style="float:right;"><i>2023/07 - current, Imperial College London</i></span></p>
 
@@ -43,11 +43,11 @@ Research experience
   * Project homepage: [_https://github.com/Yqcca/Filters_](https://github.com/Yqcca/Filters)
 
 
-Skills
+SKILLS
 ======
 * Languages: Chinese (Native), English (Fluent, TOEFL 110)
 * Programming: Python, MATLAB, R, Julia, LATEX
 * ML Libraries: Tensorflow, Keras, Scikit-learn, PyTorch, PyG, TorchDrug, MONAI
 * Hobbies: Accordion, Go, Bridge
 
-You can find my full CV here: [Xiandong Zou's Curriculum Vitae](../files/github_cv.pdf)
+You can find my full CV here: [Curriculum Vitae](../files/github_cv.pdf)

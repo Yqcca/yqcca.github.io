@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth-year Mathematics student at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My research interests lie in the fields of deep learning and statistics. I am currently studying and exploring advanced algorithms and models to solve data-driven problems in the real world.
+Hi! I am a fourth-year Mathematics student at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My research interests lie in the fields of deep learning and statistics. I am eager to study and explore advanced algorithms and models to solve data-driven problems in the real world.
 
 Outside of academics, I play Go, Bridge and Reach Mahjong.
 
-You can find my CV here: [Xiandong Zou's Curriculum Vitae](../files/github_cv.pdf)
+You can find my CV here: [Curriculum Vitae](../files/github_cv.pdf)
 
 Education
 ======
