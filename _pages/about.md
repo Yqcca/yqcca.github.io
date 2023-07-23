@@ -26,5 +26,3 @@ Interests
 * Generative Models
 * Filtering
 * Statistical Modelling
-
-<i class="fa fa-github"></i>
