@@ -22,6 +22,7 @@ Education
 Interests
 ======
 * Supervised Learning
+* Reinforcement Learning
 * Graph Representation Learning
 * Generative Models
 * Filtering
