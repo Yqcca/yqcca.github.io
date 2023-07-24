@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My previous research work focuses on AI+healthcare, graph generative models and filtering. My research interests lie in the fields of machine learning, deep learning and statistics. Currently I am actively learning and exploring advanced algorithms and models to solve complex data-driven problems in the real world. My goal is to develop explainable deep learning models to better assist people with day-to-day tasks in the era of big data.
+Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My previous research works focus on AI+healthcare, graph generative models and filtering. My research interests are quite flexible, mainly lying in the fields of machine learning, deep learning and statistics. Currently I am actively learning and exploring advanced algorithms and models to solve complex data-driven problems in the real world. My goal is to develop explainable deep learning models to better assist people with day-to-day tasks in the era of big data.
 
 Outside of academics, I enjoy reading Albert Camus's book, such as _The Myth of Sisyphus_. His works enable me to explore the fundamental question underpinning his philosophy: is life worth living? In addition, I play Go, Bridge and Reach Mahjong.
 
