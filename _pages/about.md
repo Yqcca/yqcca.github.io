@@ -23,7 +23,7 @@ Interests
 ======
 * Supervised Learning
 * Reinforcement Learning
-* Graph Representation Learning
+* Geometric Machine Learning
 * Generative Models
 * Filtering
 * Statistical Modelling
