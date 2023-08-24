@@ -32,6 +32,7 @@ SKILLS
 * Languages: Chinese (Native), English (Fluent, TOEFL 110)
 * Programming: Python, MATLAB, R, Julia, LATEX
 * ML Libraries: Tensorflow, Keras, Scikit-learn, PyTorch, PyG, TorchDrug, MONAI
-* Hobbies: Accordion, Go, Bridge
+* Music: Accordion
+* Sports: Go, Bridge
 
 You can find my full CV here: [Curriculum Vitae](../files/cv.pdf)

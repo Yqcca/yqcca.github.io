@@ -10,8 +10,10 @@ author_profile: true
 
   * Topic: GNN Expressiveness and Graph Generative Models
   * Used PyTorch, PyTDC, and Torchdrug to reproduce and improve current graph representation modules in graph generative models.
-  * Implemented new state-of-the-art molecular generation objectives to evaluate the new graph generative models.
+  * Evaluated improved GNN-based graph generative models on the de-novo molecule design task and demonstrated that GNN-based graph generative models with advanced GNNs can achieve state-of-the-art results across many other non-GNN-based graph generative approaches.
+  * Concluded expressiveness is not a necessary condition for good GNN-based generative models and goal-directed molecule generation tasks require other abilities of GNNs.
   * Source code: [_https://github.com/Yqcca/graph-generative-models_](https://github.com/Yqcca/graph-generative-models)
+  * Publication: [_https://arxiv.org/abs/2308.11978_](https://arxiv.org/abs/2308.11978)
 
 
 * <p style="text-align:left;"><b>Undergraduate Research Opportunities Programme</b><span style="float:right;"><i>2022/05 - 2022/09, Imperial College London</i></span></p>
