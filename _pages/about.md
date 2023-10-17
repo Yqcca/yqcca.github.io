@@ -25,5 +25,6 @@ Interests
 * Reinforcement Learning
 * Geometric Machine Learning
 * Generative Models
-* Filtering
 * Statistical Modelling
+* Probabilistic Models
+* Bayesian Inference
