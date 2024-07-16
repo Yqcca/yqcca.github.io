@@ -33,6 +33,7 @@ Undergraduate Research Opportunities Programme, 2022.<br />
 </p>
 
 -----
+<br />
 <img style="float: left; margin:5px 10px" src="../images/paper/bayesian.png" width="280" height="160">
 ### Bayesian Filtering
 <p style="line-height:1.0">
