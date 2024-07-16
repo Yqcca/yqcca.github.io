@@ -12,7 +12,6 @@ Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.
 
 Education
 -----
-<br />
 <img src='../images/imperial_logo.png' style='float:left;width:75px;height:90px;margin-left:20px;margin-right:20px'/>
 ### Imperial College London
 <p style="line-height:1.0">
@@ -22,7 +21,6 @@ MSci in Mathematics<br />
 </font>
 </p>
 -----
-<br />
 <img src='../images/imperial_logo.png' style='float:left;width:75px;height:90px;margin-left:20px;margin-right:20px'/>
 ### Imperial College London
 <p style="line-height:1.0">
