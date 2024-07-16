@@ -14,7 +14,6 @@ author_profile: true
 <font size="2">
 <i>Learning on Graphs Conference</i> (LOG). PMLR, 2024.<br />
 Undergraduate Research Opportunities Programme, 2023.<br />
-Used PyTorch, PyTDC, and Torchdrug to reproduce and improve current graph representation modules in graph generative models.<br />
 <a href="https://arxiv.org/abs/2308.11978">Paper</a> |
 <a href="https://github.com/Yqcca/graph-generative-models">Project Page</a> 
 <br />
@@ -28,7 +27,6 @@ Used PyTorch, PyTDC, and Torchdrug to reproduce and improve current graph repres
 <p style="line-height:1.0">
 <font size="2">
 Undergraduate Research Opportunities Programme, 2022.<br />
-Construct deep learning models to segment images related to healthcare and reproduce explainable modules in relevant papers.<br />
 <a href="https://github.com/Yqcca/tutorials">Project Page</a> 
 <br />
 </font>
@@ -41,7 +39,6 @@ Construct deep learning models to segment images related to healthcare and repro
 <p style="line-height:1.0">
 <font size="2">
 M2R Group Research Project, 2022.<br />
-Implemented the algorithms for several particle filters in Python.<br />
 <a href="https://github.com/Yqcca/Filters">Project Page</a> 
 <br />
 </font>
