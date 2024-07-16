@@ -40,7 +40,7 @@ Construct deep learning models to segment images related to healthcare and repro
 ### Bayesian Filtering
 <p style="line-height:1.0">
 <font size="2">
-Group Research Project, 2022.<br />
+M2R Group Research Project, 2022.<br />
 Implemented the algorithms for several particle filters in Python.<br />
 <a href="https://github.com/Yqcca/Filters">Project Page</a> 
 <br />
