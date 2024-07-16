@@ -32,7 +32,7 @@ B.S. in Mathematics<br />
 
 
 Interests
-======
+-----
 * Reinforcement Learning
 * Generative Models
 * LLM Alignment
