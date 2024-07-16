@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+<br />
 <img style="float: left; margin:5px 10px" src="../images/paper/gnn.png" width="280" height="160">
 ### GNN Expressiveness and Graph Generative Models
 <p style="line-height:1.0">
@@ -20,6 +21,7 @@ Undergraduate Research Opportunities Programme, 2023.<br />
 </p>
 
 -----
+<br />
 <img style="float: left; margin:5px 10px" src="../images/paper/monai.png" width="280" height="160">
 ### Explainable AI for Image Segmentation based on COVID-19
 <p style="line-height:1.0">
