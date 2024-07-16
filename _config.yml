@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xiandong Zou"
   avatar           : "profile.png"
-  bio              : "Major in Mathematics"
+  bio              : "NLP and CV Researcher"
   location         : "London, UK"
   employer         : "Imperial College London"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=ZhM-pMsAAAAJ&hl=en"
   email            : "xz1320@ic.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
