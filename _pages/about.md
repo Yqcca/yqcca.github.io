@@ -12,24 +12,25 @@ Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.
 
 Education
 -----
-<img style="float: left; margin:5px 10px" src="../images/imperial_logo.png" width="160" height="140">
+<img src='../images/imperial_logo.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+
 ### Imperial College London
 <p style="line-height:1.0">
 <font size="2">
 Oct 2023 - Jun 2024<br />
-M.S. in Mathematics<br />
+MSci in Mathematics<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/imperial_logo.png" width="160" height="140">
+<img src='../images/imperial_logo.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+
 ### Imperial College London
 <p style="line-height:1.0">
 <font size="2">
 Oct 2020 - Jun 2023<br />
-B.S. in Mathematics<br />
+BSc in Mathematics<br />
 </font>
 </p>
-
 
 Interests
 -----
@@ -42,8 +43,8 @@ Interests
 
 HONORS & AWARDS
 -----
-∙ 2023 & 2024 Imperial College UROP Award
-∙ 2022 Dean's List (Year 2) at Imperial College London
-∙ 2019 American Mathematics Competition 12: Certificate of Distinction
-∙ 2019 Euclid Mathematic Contest: Certificate of Distinction
-∙ 2019 34th Annual AAPT PhyscisBowl Contest: Honorable Award
+* 2023 & 2024 Imperial College UROP Award
+* 2022 Dean's List (Year 2) at Imperial College London
+* 2019 American Mathematics Competition 12: Certificate of Distinction
+* 2019 Euclid Mathematic Contest: Certificate of Distinction
+* 2019 34th Annual AAPT PhyscisBowl Contest: Honorable Award
