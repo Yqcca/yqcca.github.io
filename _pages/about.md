@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My previous research works focus on AI+, generative models and filtering. My research interests are quite flexible, mainly lying in the fields of generative models, AIGC (2D, 3D), LLM alignment and embodied AI.
+Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My research interests are quite flexible, mainly lying in the fields of generative models, AIGC (2D, 3D), LLM alignment and embodied AI. I am actively learning and exploring advanced algorithms and models to solve complex data-driven problems in the real world. My goal is to develop explainable deep learning models to better assist people with day-to-day tasks in the era of big data.
 
-Currently, I am actively learning and exploring advanced algorithms and models to solve complex data-driven problems in the real world. My goal is to develop explainable deep learning models to better assist people with day-to-day tasks in the era of big data.
+My past research works focus on AI+, generative models and filtering. I did my undergraduate at [Imperial College London](https://www.imperial.ac.uk/mathematics/), where I researched at [DeepWok Lab](https://deepwok.github.io/) with [Prof. Aaron Zhao](https://aaron-zhao123.github.io/) on machine learning projects.
 
 Education
 -----
@@ -44,7 +44,7 @@ Interests
 HONORS & AWARDS
 -----
 * 2023 & 2024 Imperial College UROP Award
-* 2022 Dean's List (Year 2) at Imperial College London
+* 2022 Dean's List at Imperial College London
 * 2019 American Mathematics Competition 12: Certificate of Distinction
 * 2019 Euclid Mathematic Contest: Certificate of Distinction
 * 2019 34th Annual AAPT PhyscisBowl Contest: Honorable Award
