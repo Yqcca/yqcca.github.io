@@ -23,7 +23,7 @@ Selected Publication
       <span style="display: inline-block; margin: 6px 0;">
         <i>The Thirteenth International Conference on Learning Representations (ICLR 2025).</i>
       </span><br />
-      <span style="display: inline-block; margin-top: 6px;">
+      <span style="display: inline-block; margin-top: 2px;">
         <a href="https://arxiv.org/abs/2502.04923">Paper</a> |
         <a href="https://github.com/Yqcca/CMLoRA">Project Page</a>
       </span>
@@ -36,7 +36,7 @@ Selected Publication
 
 <!-- Paper 2 -->
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/gnn.png" width="280" style="margin-right: 20px;">
+  <img src="../images/paper/gnn.png" width="280" width="280" height="160" style="margin-right: 20px;">
   
   <div>
     <h3 style="margin-top: 0;">Will More Expressive Graph Neural Networks do Better on Generative Tasks?</h3>
@@ -45,7 +45,7 @@ Selected Publication
       <span style="display: inline-block; margin: 6px 0;">
         <i>Learning on Graphs Conference (LOG).</i> PMLR, 2024.
       </span><br />
-      <span style="display: inline-block; margin-top: 6px;">
+      <span style="display: inline-block; margin-top: 2px;">
         <a href="https://arxiv.org/abs/2308.11978">Paper</a> |
         <a href="https://github.com/Yqcca/graph-generative-models">Project Page</a> 
       </span>
