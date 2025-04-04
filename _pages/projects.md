@@ -6,7 +6,19 @@ author_profile: true
 ---
 
 {% include base_path %}
+<img style="float: left; margin:5px 10px" src="../images/paper/smot.jng" width="280" height="160">
+### Cached Multi-Lora Composition for Multi-Concept Image Generation
+<p style="line-height:1.0">
+<font size="2">
+<i>The Thirteenth International Conference on Learning Representations</i> (ICLR 2025).<br />
+Master Research Opportunities Programme, 2024.<br />
+<a href="https://arxiv.org/abs/2502.04923">Paper</a> |
+<a href="https://github.com/Yqcca/CMLoRA">Project Page</a> 
+<br />
+</font>
+</p>
 
+-----
 <img style="float: left; margin:5px 10px" src="../images/paper/gnn.png" width="280" height="160">
 ### GNN Expressiveness and Graph Generative Models
 <p style="line-height:1.0">

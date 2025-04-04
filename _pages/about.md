@@ -8,38 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a MSci student in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/). My research interests are quite flexible, mainly lying in the fields of generative models, AIGC (2D, 3D), LLM alignment and embodied AI. I am actively learning and exploring advanced algorithms and models to solve complex data-driven problems in the real world. My goal is to develop explainable deep learning models to better assist people with day-to-day tasks in the era of big data.
+Xiandong Zou is a PhD student in Computer Science supervised by [Pan Zhou](https://panzhous.github.io/) at Singapore Management University. He is a member of LV lab. He received his bachelor and master degree from [Imperial College London](https://www.imperial.ac.uk/mathematics/), majoring in Mathematics, where he researched at [DeepWok Lab](https://deepwok.github.io/) with [Prof. Aaron Zhao](https://aaron-zhao123.github.io/) on machine learning projects.
 
-My past research works focus on AI+, generative models and filtering. I did my undergraduate at [Imperial College London](https://www.imperial.ac.uk/mathematics/), where I researched at [DeepWok Lab](https://deepwok.github.io/) with [Prof. Aaron Zhao](https://aaron-zhao123.github.io/) on machine learning projects.
-
-Education
+Selected Publication
 -----
-<img src='../images/imperial_logo.png' style='float:left;width:75px;height:90px;margin-left:20px;margin-right:20px'/>
-### Imperial College London
+<img style="float: left; margin:5px 10px" src="../images/paper/smot.jng" width="280" height="160">
+### Cached Multi-Lora Composition for Multi-Concept Image Generation
 <p style="line-height:1.0">
 <font size="2">
-Oct 2023 - Jun 2024<br />
-MSci in Mathematics<br />
-</font>
-</p>
------
-<img src='../images/imperial_logo.png' style='float:left;width:75px;height:90px;margin-left:20px;margin-right:20px'/>
-### Imperial College London
-<p style="line-height:1.0">
-<font size="2">
-Oct 2020 - Jun 2023<br />
-BSc in Mathematics<br />
+<b>Xiandong Zou</b>, Mingzhu Shen, Christos-Savvas Bouganis, Yiren Zhao<br />
+<i>The Thirteenth International Conference on Learning Representations</i> (ICLR 2025).<br />
+<a href="https://arxiv.org/abs/2502.04923">Paper</a> |
+<a href="https://github.com/Yqcca/CMLoRA">Project Page</a> 
+<br />
 </font>
 </p>
 
-Interests
 -----
-* Reinforcement Learning
-* Generative Models
-* LLM Alignment
-* Parameter-Efficient Fine-Tuning
-* Probabilistic Models
-* Bayesian Inference
+<img style="float: left; margin:5px 10px" src="../images/paper/gnn.png" width="280" height="160">
+### Will More Expressive Graph Neural Networks do Better on Generative Tasks?
+<p style="line-height:1.0">
+<font size="2">
+<b>Xiandong Zou</b>, Xiangyu Zhao, Pietro Liò, Yiren Zhao<br />
+<i>Learning on Graphs Conference</i> (LOG). PMLR, 2024.<br />
+<a href="https://arxiv.org/abs/2308.11978">Paper</a> |
+<a href="https://github.com/Yqcca/graph-generative-models">Project Page</a> 
+<br />
+</font>
+</p>
 
 HONORS & AWARDS
 -----
