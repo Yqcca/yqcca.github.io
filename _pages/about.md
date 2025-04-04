@@ -12,7 +12,7 @@ Xiandong Zou is a PhD student in Computer Science supervised by [Pan Zhou](https
 
 Selected Publication
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper/smot.jng" width="280" height="160">
+<img style="float: left; margin:5px 10px" src="../images/paper/smot.png" width="280" height="160">
 ### Cached Multi-Lora Composition for Multi-Concept Image Generation
 <p style="line-height:1.0">
 <font size="2">
