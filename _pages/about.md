@@ -21,7 +21,7 @@ Selected Publication
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
       <b>Xiandong Zou</b>, Mingzhu Shen, Christos-Savvas Bouganis, Yiren Zhao<br />
       <span style="display: inline-block; margin: 6px 0;">
-        <i>The Thirteenth International Conference on Learning Representations</i> (ICLR 2025).
+        <i>The Thirteenth International Conference on Learning Representations (ICLR 2025).</i>
       </span><br />
       <span style="display: inline-block; margin-top: 6px;">
         <a href="https://arxiv.org/abs/2502.04923">Paper</a> |
