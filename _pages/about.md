@@ -36,7 +36,7 @@ Selected Publication
 
 <!-- Paper 2 -->
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/gnn.png" width="280" width="280" height="160" style="margin-right: 20px;">
+  <img src="../images/paper/gnn.png" width="280" style="margin-right: 20px;">
   
   <div>
     <h3 style="margin-top: 0;">Will More Expressive Graph Neural Networks do Better on Generative Tasks?</h3>
