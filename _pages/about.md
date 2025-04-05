@@ -8,11 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-Xiandong Zou is a PhD student in Computer Science supervised by [Pan Zhou](https://panzhous.github.io/) at Singapore Management University. He is a member of LV lab. He received his bachelor and master degree in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/), where he researched at [DeepWok Lab](https://deepwok.github.io/) with [Prof. Aaron Zhao](https://aaron-zhao123.github.io/) on machine learning projects.
+Xiandong Zou is a Ph.D. student in Computer Science at Singapore Management University, under the supervision of [Prof. Pan Zhou](https://panzhous.github.io/). He is a member of the Learning and Vision (LV) lab. He holds a Bachelor’s and Master’s degree in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/), where he researched at [DeepWok Lab](https://deepwok.github.io/) with [Prof. Aaron Zhao](https://aaron-zhao123.github.io/) on various machine learning projects.
 
 Selected Publication
 -----
-<!-- Paper 1 -->
+
+<div style="display: flex; margin-bottom: 20px;">
+  <img src="../images/paper/hps.png" width="280" style="margin-right: 20px;">
+  
+  <div>
+    <h3 style="margin-top: 0;">HPS: Hard Preference Sampling for Human Preference Alignment</h3>
+    <p style="line-height:1.4; font-size: small; margin-top: 5px;">
+      <b>Xiandong Zou</b>, Wanyu Lin, Yuchen Li, Pan Zhou<br />
+      <span style="display: inline-block; margin: 6px 0;">
+        <i>preprint.</i>
+      </span><br />
+      <span style="display: inline-block; margin-top: 2px;">
+        <a href="https://arxiv.org/abs/2502.14400">Paper</a> |
+        <a href="">Project Page</a>
+      </span>
+    </p>
+  </div>
+</div>
+
 <div style="display: flex; margin-bottom: 20px;">
   <img src="../images/paper/smot.png" width="280" style="margin-right: 20px;">
   
@@ -34,7 +52,6 @@ Selected Publication
 
 <hr>
 
-<!-- Paper 2 -->
 <div style="display: flex; margin-bottom: 20px;">
   <img src="../images/paper/gnn.png" width="280" style="margin-right: 20px;">
   
@@ -60,4 +77,4 @@ HONORS & AWARDS
 * 2022 Dean's List at Imperial College London
 * 2019 American Mathematics Competition 12: Certificate of Distinction
 * 2019 Euclid Mathematic Contest: Certificate of Distinction
-* 2019 34th Annual AAPT PhyscisBowl Contest: Honorable Award
+* 2019 34th Annual AAPT PhysicsBowl Contest: Honorable Award
