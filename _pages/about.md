@@ -31,6 +31,8 @@ Selected Publication
   </div>
 </div>
 
+<hr>
+
 <div style="display: flex; margin-bottom: 20px;">
   <img src="../images/paper/smot.png" width="280" style="margin-right: 20px;">
   
@@ -48,7 +50,6 @@ Selected Publication
     </p>
   </div>
 </div>
-
 
 <hr>
 
