@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xiandong Zou"
   avatar           : "profile.png"
-  bio              : "AI Researcher"
+  bio              : "AIGC Researcher"
   location         : "Singapore"
-  employer         : "Singapore Management University"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZhM-pMsAAAAJ&hl=en"
   email            : "xz1320@ic.ac.uk"
