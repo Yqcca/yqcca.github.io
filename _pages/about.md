@@ -21,7 +21,7 @@ Selected Publication
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
       <b>Xiandong Zou</b>, Wanyu Lin, Yuchen Li, Pan Zhou<br />
       <span style="display: inline-block; margin: 6px 0;">
-        <i>preprint.</i>
+        <i>Forty-Second International Conference on Machine Learning (ICML 2025).</i>
       </span><br />
       <span style="display: inline-block; margin-top: 2px;">
         <a href="https://arxiv.org/abs/2502.14400">Paper</a> |
