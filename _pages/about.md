@@ -74,10 +74,18 @@ Selected Publication
 </div>
 
 
-HONORS & AWARDS
+Honors & Awards
 -----
 * 2023 & 2024 Imperial College UROP Award
 * 2022 Dean's List at Imperial College London
 * 2019 American Mathematics Competition 12: Certificate of Distinction
 * 2019 Euclid Mathematic Contest: Certificate of Distinction
 * 2019 34th Annual AAPT PhysicsBowl Contest: Honorable Award
+
+Professional Service
+-----
+#### Conference Reviewer for
+<ul>
+  <li>Neural Information Processing Systems (NeurIPS, 2025)</li>
+</ul>
+
