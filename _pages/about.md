@@ -84,7 +84,7 @@ Honors & Awards
 
 Professional Service
 -----
-#### Conference Reviewer for
+### Conference Reviewer for
 <ul>
   <li>Neural Information Processing Systems (NeurIPS, 2025)</li>
 </ul>
