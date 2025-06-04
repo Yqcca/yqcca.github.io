@@ -27,7 +27,7 @@ Selected Publication
       </span><br />
       <span style="display: inline-block; margin-top: 2px;">
         <a href="https://arxiv.org/abs/2502.14400">Paper</a> |
-        <a href="">Project Page</a>
+        <a href="https://github.com/LVLab-SMU/HPS">Project Page</a>
       </span>
     </p>
   </div>
