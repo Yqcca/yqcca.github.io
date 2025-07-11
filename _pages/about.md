@@ -76,6 +76,7 @@ Selected Publication
 
 Honors & Awards
 -----
+* 2025 SMU Presidential Doctoral Fellowship in Computing
 * 2023 & 2024 Imperial College UROP Award
 * 2022 Dean's List at Imperial College London
 * 2019 American Mathematics Competition 12: Certificate of Distinction
