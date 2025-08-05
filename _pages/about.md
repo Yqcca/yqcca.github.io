@@ -85,8 +85,9 @@ Honors & Awards
 
 Professional Service
 -----
-### Conference Reviewer for
+### Conference Reviewer/Program Committee for
 <ul>
   <li>Neural Information Processing Systems (NeurIPS, 2025)</li>
+  <li>AAAI Conference on Artificial Intelligence (AAAI, 2026)</li>
 </ul>
 
