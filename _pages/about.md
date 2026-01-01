@@ -83,12 +83,18 @@ Honors & Awards
 * 2019 Euclid Mathematic Contest: Certificate of Distinction
 * 2019 34th Annual AAPT PhysicsBowl Contest: Honorable Award
 
-Professional Service
+Professional Service and Teaching
 -----
 ### Conference Reviewer/Program Committee for
 <ul>
   <li>Neural Information Processing Systems (NeurIPS, 2025)</li>
   <li>International Conference on Learning Representations (ICLR, 2026)</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI, 2026)</li>
+  <li>Conference of the European Chapter of the Association for Computational Linguistics (EACL, 2026)</li>
+</ul>
+
+### Teaching Assistant for
+<ul>
+  <li>CS424 Generative AI for Vision (2026 Spring)</li>
 </ul>
 
