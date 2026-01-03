@@ -12,7 +12,7 @@ Xiandong Zou is a Ph.D. candidate in Computer Science at Singapore Management Un
 
 His research interests include AIGC, generative models, preference alignment, and controllable generation.
 
-Selected Publication
+Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-pMsAAAAJ&hl=en))
 -----
 
 <div style="display: flex; margin-bottom: 20px;">
@@ -85,7 +85,7 @@ Honors & Awards
 
 Professional Service and Teaching
 -----
-### Conference Reviewer/Program Committee for
+### Conference Reviewer/Program Committee
 <ul>
   <li>Neural Information Processing Systems (NeurIPS, 2025)</li>
   <li>International Conference on Learning Representations (ICLR, 2026)</li>
@@ -93,8 +93,8 @@ Professional Service and Teaching
   <li>Conference of the European Chapter of the Association for Computational Linguistics (EACL, 2026)</li>
 </ul>
 
-### Teaching Assistant for
+### Teaching Assistant
 <ul>
-  <li>CS424 Generative AI for Vision (2026 Spring)</li>
+  <li>CS 424: Generative AI for Vision (2026 Spring, Instructor: Pan Zhou)</li>
 </ul>
 
