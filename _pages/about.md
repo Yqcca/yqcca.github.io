@@ -95,6 +95,6 @@ Professional Service and Teaching
 
 ### Teaching Assistant
 <ul>
-  <li>CS 424: Generative AI for Vision (2026 Spring, Instructor: Pan Zhou)</li>
+  <li>CS 424: Generative AI for Vision (2026 Spring, Instructor: Prof. Pan Zhou)</li>
 </ul>
 
