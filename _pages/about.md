@@ -89,6 +89,7 @@ Professional Service and Teaching
 <ul>
   <li>Neural Information Processing Systems (NeurIPS, 2025)</li>
   <li>International Conference on Learning Representations (ICLR, 2026)</li>
+  <li>International Conference on Machine Learning (ICML, 2026)</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI, 2026)</li>
   <li>Conference of the European Chapter of the Association for Computational Linguistics (EACL, 2026)</li>
 </ul>
