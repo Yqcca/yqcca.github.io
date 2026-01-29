@@ -16,6 +16,25 @@ Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-
 -----
 
 <div style="display: flex; margin-bottom: 20px;">
+  <img src="../images/paper/dreamcs.png" width="280" style="margin-right: 20px;">
+  
+  <div>
+    <h3 style="margin-top: 0;">DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision</h3>
+    <p style="line-height:1.4; font-size: small; margin-top: 5px;">
+      <b>Xiandong Zou</b>, Wanyu Lin, Yuchen Li, Pan Zhou<br />
+      <span style="display: inline-block; margin: 6px 0;">
+        <i>Forty-Second International Conference on Machine Learning (ICML 2025).</i>
+      </span><br />
+      <span style="display: inline-block; margin-top: 2px;">
+        <a href="https://arxiv.org/abs/2506.09814">Paper</a>
+      </span>
+    </p>
+  </div>
+</div>
+
+<hr>
+
+<div style="display: flex; margin-bottom: 20px;">
   <img src="../images/paper/hps.png" width="280" style="margin-right: 20px;">
   
   <div>
