@@ -16,7 +16,7 @@ Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-
 -----
 
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/dreamcs.png" width="280" style="margin-right: 20px;">
+  <img src="../images/paper/dreamcs.pdf" width="280" style="margin-right: 20px;">
   
   <div>
     <h3 style="margin-top: 0;">DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision</h3>
@@ -55,7 +55,7 @@ Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-
 <hr>
 
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/smot.png" width="280" style="margin-right: 20px;">
+  <img src="../images/paper/cmlora.pdf" width="280" style="margin-right: 20px;">
   
   <div>
     <h3 style="margin-top: 0;">Cached Multi-Lora Composition for Multi-Concept Image Generation</h3>
@@ -75,7 +75,7 @@ Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-
 <hr>
 
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/gnn.png" width="280" style="margin-right: 20px;">
+  <img src="../images/paper/gnn.pdf" width="280" style="margin-right: 20px;">
   
   <div>
     <h3 style="margin-top: 0;">Will More Expressive Graph Neural Networks do Better on Generative Tasks?</h3>

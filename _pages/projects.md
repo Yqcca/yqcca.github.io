@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 <!-- Paper 1 -->
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/smot.png" width="280" height="160" style="margin-right: 20px;">
+  <img src="../images/paper/cmlora.pdf" width="280" height="160" style="margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Cached Multi-Lora Composition for Multi-Concept Image Generation</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
@@ -24,7 +24,7 @@ author_profile: true
 
 <!-- Paper 2 -->
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/gnn.png" width="280" height="160" style="margin-right: 20px;">
+  <img src="../images/paper/gnn.pdf" width="280" height="160" style="margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">GNN Expressiveness and Graph Generative Models</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
@@ -40,7 +40,7 @@ author_profile: true
 
 <!-- Paper 3 -->
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/monai.png" width="280" height="160" style="margin-right: 20px;">
+  <img src="../images/paper/monai.pdf" width="280" height="160" style="margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Explainable AI for Image Segmentation based on COVID-19</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
@@ -54,7 +54,7 @@ author_profile: true
 
 <!-- Paper 4 -->
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/bayesian.png" width="280" height="160" style="margin-right: 20px;">
+  <img src="../images/paper/bs.pdf" width="280" height="160" style="margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Bayesian Filtering</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
