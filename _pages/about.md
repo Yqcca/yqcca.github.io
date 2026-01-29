@@ -23,7 +23,7 @@ Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
       <b>Xiandong Zou</b>, Wanyu Lin, Yuchen Li, Pan Zhou<br />
       <span style="display: inline-block; margin: 6px 0;">
-        <i>Forty-Second International Conference on Machine Learning (ICML 2025).</i>
+        <i>The Fourteenth International Conference on Learning Representations (ICLR 2026).</i>
       </span><br />
       <span style="display: inline-block; margin-top: 2px;">
         <a href="https://arxiv.org/abs/2506.09814">Paper</a>
@@ -35,7 +35,7 @@ Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-
 <hr>
 
 <div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/hps.png" width="280" style="margin-right: 20px;">
+  <img src="../images/paper/hps.pdf" width="280" style="margin-right: 20px;">
   
   <div>
     <h3 style="margin-top: 0;">HPS: Hard Preference Sampling for Human Preference Alignment</h3>
