@@ -21,7 +21,7 @@ Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-
   <div>
     <h3 style="margin-top: 0;">DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
-      <b>Xiandong Zou</b>, Wanyu Lin, Yuchen Li, Pan Zhou<br />
+      <b>Xiandong Zou</b>, Ruihao Xia, Hongsong Wang, Pan Zhou<br />
       <span style="display: inline-block; margin: 6px 0;">
         <i>The Fourteenth International Conference on Learning Representations (ICLR 2026).</i>
       </span><br />
