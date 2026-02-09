@@ -10,7 +10,7 @@ redirect_from:
 
 Xiandong Zou is a Ph.D. candidate in Computer Science at Singapore Management University, under the supervision of [Prof. Pan Zhou](https://panzhous.github.io/). He is a member of the [Language and Vision Lab (LV-Lab)](https://www.lv-lab.org/), directed by [Prof. Shuicheng Yan](https://yanshuicheng.info/) and [Prof. Pan Zhou](https://panzhous.github.io/). He holds a Bachelor’s and Master’s degree in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/), where he researched at [DeepWok Lab](https://deepwok.github.io/) with [Prof. Aaron Zhao](https://aaron-zhao123.github.io/) on various machine learning projects.
 
-His research interests include AIGC, generative models, preference alignment, and controllable generation.
+He strives to build principled and reliable generative systems on the path toward AGI. His research interests include AIGC, generative models, preference alignment, and controllable generation.
 
 Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-pMsAAAAJ&hl=en))
 -----
