@@ -12,7 +12,7 @@ Xiandong Zou is a Ph.D. candidate in Computer Science at Singapore Management Un
 
 His research interests include AIGC, generative models, preference alignment, and controllable generation.
 
-Selected Publication ([full list](https://scholar.google.com/citations?user=ZhM-pMsAAAAJ&hl=en))
+Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-pMsAAAAJ&hl=en))
 -----
 
 <div style="display: flex; margin-bottom: 20px;">
