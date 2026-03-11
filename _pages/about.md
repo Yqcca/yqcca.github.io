@@ -92,17 +92,13 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
   </div>
 </div>
 
-
 Honors & Awards
 -----
 * 2025 SMU Presidential Doctoral Fellowship in Computing
 * 2023 & 2024 Imperial College UROP Award
 * 2022 Dean's List at Imperial College London
-* 2019 American Mathematics Competition 12: Certificate of Distinction
-* 2019 Euclid Mathematic Contest: Certificate of Distinction
-* 2019 34th Annual AAPT PhysicsBowl Contest: Honorable Award
 
-Professional Service and Teaching
+Professional Service & Teaching
 -----
 ### Conference Reviewer/Program Committee
 <ul>
