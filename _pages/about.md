@@ -102,15 +102,15 @@ Professional Service & Teaching
 -----
 ### Conference Reviewer/Program Committee
 <ul>
-  <li>Neural Information Processing Systems (NeurIPS, 2025)</li>
-  <li>International Conference on Learning Representations (ICLR, 2026)</li>
-  <li>International Conference on Machine Learning (ICML, 2026)</li>
-  <li>AAAI Conference on Artificial Intelligence (AAAI, 2026)</li>
-  <li>Conference of the European Chapter of the Association for Computational Linguistics (EACL, 2026)</li>
+  <li>Neural Information Processing Systems (NeurIPS) 2025-2026</li>
+  <li>International Conference on Learning Representations (ICLR) 2026</li>
+  <li>International Conference on Machine Learning (ICML) 2026</li>
+  <li>AAAI Conference on Artificial Intelligence (AAAI) 2026</li>
+  <li>Conference of the European Chapter of the Association for Computational Linguistics (EACL) 2026</li>
 </ul>
 
 ### Teaching Assistant
 <ul>
-  <li>CS 424: Generative AI for Vision (2026 Spring, Instructor: Prof. Pan Zhou)</li>
+  <li>CS 424: Generative AI for Vision (Instructor: Prof. Pan Zhou) 2026 Spring</li>
 </ul>
 
