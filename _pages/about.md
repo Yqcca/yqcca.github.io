@@ -102,7 +102,7 @@ Professional Service & Teaching
 -----
 ### Conference Reviewer/Program Committee
 <ul>
-  <li>Neural Information Processing Systems (NeurIPS), 2025-2026</li>
+  <li>Neural Information Processing Systems (NeurIPS), 2025</li>
   <li>International Conference on Learning Representations (ICLR), 2026</li>
   <li>International Conference on Machine Learning (ICML), 2026</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI), 2026</li>
