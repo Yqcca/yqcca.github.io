@@ -16,6 +16,22 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
 -----
 
 <div style="display: flex; margin-bottom: 20px;">
+  <img src="../images/paper/vsd.jpg" width="280" style="margin-right: 20px;">
+  
+  <div>
+    <h3 style="margin-top: 0;">Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance</h3>
+    <p style="line-height:1.4; font-size: small; margin-top: 5px;">
+      <b>Xiandong Zou</b>, Jianshu Li, Jing Huang, Pan Zhou<br />
+      <span style="display: inline-block; margin: 6px 0;">
+        <i>Forty-Third International Conference on Machine Learning (ICML 2026).</i>
+      </span><br />
+    </p>
+  </div>
+</div>
+
+<hr>
+
+<div style="display: flex; margin-bottom: 20px;">
   <img src="../images/paper/dreamcs.jpg" width="280" style="margin-right: 20px;">
   
   <div>
