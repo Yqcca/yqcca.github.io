@@ -25,6 +25,9 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
       <span style="display: inline-block; margin: 6px 0;">
         <i>Forty-Third International Conference on Machine Learning (ICML 2026).</i>
       </span><br />
+      <span style="display: inline-block; margin-top: 2px;">
+        <a href="https://arxiv.org/abs/2602.05774">Paper</a>
+      </span>
     </p>
   </div>
 </div>
