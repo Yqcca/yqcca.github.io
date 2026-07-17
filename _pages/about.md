@@ -113,6 +113,7 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
 
 Honors & Awards
 -----
+* 2026 SCIS Dean's List at SMU
 * 2025-2026 SMU Presidential Doctoral Fellowship in Computing
 * 2023-2024 Imperial College UROP Award
 * 2022 Dean's List at Imperial College London
