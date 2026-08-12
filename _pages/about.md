@@ -27,6 +27,7 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
       </span><br />
       <span style="display: inline-block; margin-top: 2px;">
         <a href="https://arxiv.org/abs/2602.05774">Paper</a>
+        <a href="https://github.com/LV-Lab-SMU/VSD">Project Page</a>
       </span>
     </p>
   </div>
@@ -65,7 +66,7 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
       </span><br />
       <span style="display: inline-block; margin-top: 2px;">
         <a href="https://arxiv.org/abs/2502.14400">Paper</a> |
-        <a href="https://github.com/LVLab-SMU/HPS">Project Page</a>
+        <a href="https://github.com/LV-Lab-SMU/HPS">Project Page</a>
       </span>
     </p>
   </div>
