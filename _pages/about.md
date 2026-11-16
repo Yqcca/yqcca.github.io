@@ -127,6 +127,7 @@ Professional Service & Teaching
   <li>International Conference on Learning Representations (ICLR), 2026-2027</li>
   <li>International Conference on Machine Learning (ICML), 2026</li>
   <li>AAAI Conference on Artificial Intelligence (AAAI), 2026-2027</li>
+  <li>Conference on Machine Learning and Systems (MLSys), 2027</li>
   <li>Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026</li>
 </ul>
 
