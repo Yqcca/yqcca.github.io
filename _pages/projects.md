@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/cmlora.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/cmlora.jpg" width="280" style="margin-right: 20px; height: auto;">
   <div>
     <h3 style="margin-top: 0;">Cached Multi-Lora Composition for Multi-Concept Image Generation</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
@@ -25,8 +25,8 @@ author_profile: true
 
 <hr>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/gnn.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/gnn.jpg" width="280" style="margin-right: 20px; height: auto;">
   <div>
     <h3 style="margin-top: 0;">GNN Expressiveness and Graph Generative Models</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
@@ -44,8 +44,8 @@ author_profile: true
 
 <hr>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/monai.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/monai.jpg" width="280" style="margin-right: 20px; height: auto;">
   <div>
     <h3 style="margin-top: 0;">Explainable AI for Image Segmentation based on COVID-19</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">
@@ -59,8 +59,8 @@ author_profile: true
 
 <hr>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/bs.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/bs.jpg" width="280" style="margin-right: 20px; height: auto;">
   <div>
     <h3 style="margin-top: 0;">Bayesian Filtering</h3>
     <p style="line-height:1.4; font-size: small; margin-top: 5px;">

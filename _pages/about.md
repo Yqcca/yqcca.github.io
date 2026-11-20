@@ -15,8 +15,8 @@ He strives to build principled and reliable generative systems on the path towar
 Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-pMsAAAAJ&hl=en))
 -----
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/vsd.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/vsd.jpg" width="280" style="margin-right: 20px; height: auto;">
   
   <div>
     <h3 style="margin-top: 0;">Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance</h3>
@@ -35,8 +35,8 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
 
 <hr>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/dreamcs.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/dreamcs.jpg" width="280" style="margin-right: 20px; height: auto;">
   
   <div>
     <h3 style="margin-top: 0;">DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision</h3>
@@ -54,8 +54,8 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
 
 <hr>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/hps.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/hps.jpg" width="280" style="margin-right: 20px; height: auto;">
   
   <div>
     <h3 style="margin-top: 0;">HPS: Hard Preference Sampling for Human Preference Alignment</h3>
@@ -74,8 +74,8 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
 
 <hr>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/cmlora.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/cmlora.jpg" width="280" style="margin-right: 20px; height: auto;">
   
   <div>
     <h3 style="margin-top: 0;">Cached Multi-Lora Composition for Multi-Concept Image Generation</h3>
@@ -94,8 +94,8 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
 
 <hr>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <img src="../images/paper/gnn.jpg" width="280" style="margin-right: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="../images/paper/gnn.jpg" width="280" style="margin-right: 20px; height: auto;">
   
   <div>
     <h3 style="margin-top: 0;">Will More Expressive Graph Neural Networks do Better on Generative Tasks?</h3>
@@ -111,6 +111,10 @@ Selected Publication ([Full List](https://scholar.google.com/citations?user=ZhM-
     </p>
   </div>
 </div>
+
+Industry Experience
+-----
+* 2026.03 - 2026.12, **Ant Group**, Research Intern. Worked on efficient inference and reasoning for large language models and multimodal models.
 
 Honors & Awards
 -----
